@@ -67,3 +67,4 @@ all
 build1[0123]
 Makefile
 *.plist
+.idea
